@@ -1,0 +1,165 @@
+body{
+background: #F9F9F9;
+background: -moz-linear-gradient(top, #F9F9F9 0%, #D8D8D8 70%, #AFAFAF 100%);
+background: -webkit-linear-gradient(top, #F9F9F9 0%, #D8D8D8 70%, #AFAFAF 100%);
+background: linear-gradient(to bottom, #F9F9F9 0%, #D8D8D8 70%, #AFAFAF 100%);
+}
+.recherche{
+	font-size:20px;
+}
+.nom{
+	font-size:21px;
+}
+.séparation {
+  border: 0;
+  border-top: 3px solid #CCC;
+}
+.profil{
+	font-size:23px;  
+	margin-left:180px;
+	float:left;
+}
+.age{
+	font-size:18px;
+   	float:left;	
+	margin-left:-68px;
+	margin-top:-40px;
+	
+}
+.formation{
+	font-size:23px;  
+	margin-left:650px;
+}
+.coordonnees{
+	font-size:23px;
+	margin-top:200;
+	margin-left:180px;
+}
+.telephone{
+	margin-left:180px;
+	margin-top:-40px;
+	float:left;
+}
+.numero{
+	margin-top:-23px;
+	margin-left:210px;
+}
+.mail{
+	margin-top:-30px;
+	margin-left:180px;
+	float:left;
+}
+.e-mail{
+	margin-top:-15px;
+	margin-left:210px;
+}
+.position{
+	margin-top:-20px;
+	margin-left:180px;
+	float:left;
+}
+.adresse{
+	margin-top:-35px;
+	margin-left:5px;
+	float:left;
+}
+.ville{
+	margin-top:-15px;
+	margin-left:-173px;
+	float:left;
+}
+.linkedin{
+	margin-top:10px;
+	margin-left:-201px;
+	float:left;
+}
+.identifiant{
+	margin-top:26px;
+	margin-left:-173px;
+	float:left;
+}
+.LyceeFulbert{
+	margin-top:-210px;
+	margin-left:300px;
+	float:left;
+	font-size:19px;
+}
+.annee{
+	margin-top:-185px;
+	margin-left:300px;
+	float:left;
+}
+.diplome{
+	margin-top:-160px;
+	margin-left:300px;
+	float:left;
+}
+.lycee{
+	margin-top:-330px;
+	margin-left:300px;
+	float:left;
+	font-size:19px;
+}
+.date{
+	margin-top:-305px;
+	margin-left:300px;
+	float:left;
+}
+.bts{
+	margin-top:-280px;
+	margin-left:300px;
+	float:left;
+}
+.vertical-line{
+    border-left: 2px solid #000;
+    display: inline-block;
+	height: 265px;
+    margin-top:-300px;
+	margin-left:290px;
+    }
+.loisirs{
+	font-size:23px;
+	margin-top:100;
+	margin-left:180px;
+	
+}
+.activités{
+	font-size:18px;
+	margin-top:-20;
+	margin-left:180px;
+}
+.competences{
+	font-size:23px;
+	margin-left:648px;
+	margin-top:-200;
+	float:left;
+}
+.skills{
+	font-size:18px;
+	margin-top:-160px;
+	margin-left:685px;
+	float:left;
+}
+.vertical{
+    border-left: 2px solid #000;
+    display: inline-block;
+	height: 230px;
+    margin-top:-245px;
+	margin-left:675px;
+	float:left;
+}
+.maison{
+	margin-bottom:10px;
+	float:left;
+}
+
+
+
+$container-max-widths:{
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px
+}
+

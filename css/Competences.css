@@ -1,0 +1,28 @@
+body{
+background: #F9F9F9;
+background: -moz-linear-gradient(top, #F9F9F9 0%, #D8D8D8 70%, #AFAFAF 100%);
+background: -webkit-linear-gradient(top, #F9F9F9 0%, #D8D8D8 70%, #AFAFAF 100%);
+background: linear-gradient(to bottom, #F9F9F9 0%, #D8D8D8 70%, #AFAFAF 100%);
+}
+.séparation {
+	border: 0;
+	border-top: 3px solid #CCC;
+}
+.titre{
+	font-size:19px;
+}
+.réalisation{
+	font-size:19px;
+}	
+.maison{
+	margin-top:300px;
+	float:left;
+}
+
+$container-max-widths:{
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px
+}

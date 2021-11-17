@@ -1,0 +1,53 @@
+body{
+background: #F9F9F9;
+background: -moz-linear-gradient(top, #F9F9F9 0%, #D8D8D8 70%, #AFAFAF 100%);
+background: -webkit-linear-gradient(top, #F9F9F9 0%, #D8D8D8 70%, #AFAFAF 100%);
+background: linear-gradient(to bottom, #F9F9F9 0%, #D8D8D8 70%, #AFAFAF 100%);
+}
+.question{
+	font-size:21px;
+}
+.séparation{
+  border: 0;
+  border-top: 3px solid #CCC;
+}
+.informations{
+	font-size:21px;
+}
+.contact{
+	float:left;
+}
+.lien{
+	margin-left:-200px;
+	margin-top:50px;
+	float:left;
+}
+.skills{
+	margin-right:300px;
+	margin-top:100px;
+	float:left;
+}
+.lien2{
+	margin-right:950px;
+	margin-left:170px;
+	float:left;
+}	
+.CV{
+	margin-top:50px;
+	margin-right:700px;
+	float:left;
+}	
+.lien3{
+	margin-top:px;
+	margin-right:700px;
+	float:left;
+}
+
+	
+$container-max-widths :{
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px
+}
